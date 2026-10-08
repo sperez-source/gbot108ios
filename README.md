@@ -76,3 +76,4 @@ make ci                # full local CI mirror
 - OpenAPI spec is the API contract source of truth
 
 <!-- CI exercised for MCP QA. -->
+<!-- scenario push to exercise CI -->
